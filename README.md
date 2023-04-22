@@ -57,5 +57,5 @@ I am a Frontend Developer from Mexico <img src="https://media.giphy.com/media/WU
 ### :chart_with_upwards_trend: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jirenuki-69&theme=merko&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirenuki-69&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirenuki-69&show_icons=true&theme=merko&hide_border=true)
 
