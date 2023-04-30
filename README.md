@@ -26,6 +26,8 @@ I am a Frontend Developer from Mexico <img src="https://media.giphy.com/media/WU
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-antonio-fuentes-gonz%C3%A1lez-791072168/)
 
+- :eyes: You can see my portfolio: https://jirenuki-69.github.io/portfolio/
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
